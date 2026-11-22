@@ -1,0 +1,6 @@
+2026-11-22 20:25:24,006 - INFO - Successful login
+2026-11-22 20:25:47,203 - WARNING - Failed login attempt
+2026-11-22 20:46:32,438 - WARNING - Failed login attempt
+2026-11-22 20:46:42,525 - WARNING - Failed login attempt
+2026-11-22 20:46:47,745 - WARNING - Failed login attempt
+2026-11-22 20:46:47,746 - ERROR - Maximum login attempts reached
